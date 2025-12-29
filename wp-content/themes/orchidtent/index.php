@@ -31,7 +31,7 @@ teknologi Korea & UV protection
       <span class="tag top">BERDIRI SEJAK 2001</span>
       <span class="tag bottom">MADE IN KOREA</span>
 
-      <img src="https://picsum.photos/800/600?random=21" alt="Terpal Orchid">
+      <img class="bg-white" src="http://orchid.local/wp-content/uploads/2025/12/135_Blue-Silver_Texture1-1.webp" alt="Terpal Orchid">
     </div>
 
   </div>
@@ -50,8 +50,8 @@ Masalah-masalah ini bikin rugi waktu, tenaga, bahkan duit!
 </div>
   <div class="container problem-grid">
     <div class="problem-images">
-      <img class="short" src="https://picsum.photos/600/400?random=11" alt="">
-      <img class="long" src="https://picsum.photos/600/400?random=12" alt="">
+      <img class="short" src="http://orchid.local/wp-content/uploads/2025/12/Group-68.jpg" alt="">
+      <img class="long" src="http://orchid.local/wp-content/uploads/2025/12/Mask-group.jpg" alt="">
     </div>
 
     <div class="problem-content">
@@ -109,7 +109,6 @@ Masalah-masalah ini bikin rugi waktu, tenaga, bahkan duit!
 
 
 <!-- SECTION TRUST -->
-
 <section class="experience-section">
   <span class="badge">BERDIRI SEJAK 2001</span>
 
@@ -124,33 +123,41 @@ Masalah-masalah ini bikin rugi waktu, tenaga, bahkan duit!
 
   <div class="cards">
     <div class="card">
-      <img src="https://picsum.photos/500/600?1">
+      <img src="http://orchid.local/wp-content/uploads/2025/12/Mask-group-1.jpg">
       <div class="text">
-        <h4>Kebutuhan Konstruksi</h4>
-        <p>Perlindungan area kerja</p>
+        <h4>Kebutuhan Peternakan</h4>
+        <p>Terpal digunakan sebagai alas kandang, penutup pakan, serta penampung limbah.</p>
       </div>
     </div>
 
     <div class="card">
-      <img src="https://picsum.photos/500/600?2">
+      <img src="http://orchid.local/wp-content/uploads/2025/12/Mask-group-2.jpg">
       <div class="text">
-        <h4>Kebutuhan Industri</h4>
-        <p>Digunakan di berbagai sektor</p>
+        <h4>Kebutuhan Perikanan</h4>
+        <p>Pelapis kolam terpal untuk budidaya ikan, menjaga kualitas air, mencegah kebocoran, dan memudahkan pengelolaan serta panen.</p>
       </div>
     </div>
 
     <div class="card">
-      <img src="https://picsum.photos/500/600?3">
+      <img src="http://orchid.local/wp-content/uploads/2025/12/Mask-group-4.jpg">
       <div class="text">
-        <h4>Kebutuhan UMKM</h4>
-        <p>Booth & perlindungan produk</p>
+        <h4>Kebutuhan Perkebunan</h4>
+        <p>Menutup hasil panen, alas pengeringan, serta pelindung tanaman dan tanah dari hujan berlebih atau paparan sinar matahari langsung.</p>
       </div>
     </div>
     <div class="card">
-      <img src="https://picsum.photos/500/600?3">
+      <img src="http://orchid.local/wp-content/uploads/2025/12/Mask-group-3.jpg">
       <div class="text">
-        <h4>Kebutuhan UMKMs</h4>
-        <p>Booth & perlindungan produks</p>
+        <h4>Truk Logistik / Angkutan</h4>
+        <p>Penutup muatan agar barang tetap aman dari hujan, debu, dan panas selama proses pengiriman.</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="http://orchid.local/wp-content/uploads/2025/12/Mask-group-5.jpg">
+      <div class="text">
+        <h4>Kebutuhan UMKM F&B</h4>
+        <p>Penutup bahan baku, alas produksi, tenda jualan, atau pelindung area usaha agar tetap higienis dan terlindung dari cuaca.</p>
       </div>
     </div>
   </div>
@@ -178,21 +185,21 @@ Masalah-masalah ini bikin rugi waktu, tenaga, bahkan duit!
 
       <ul class="kebutuhan-list">
         <li class="active" data-target="slider-1">
-          <h4>Kebutuhan Konstruksi</h4>
+          <h4>Kolam Terpal Lele</h4>
           <p class="item-desc">
           Digunakan di berbagai sektor mulai dari konstruksi, kolam terpal lele, tambang batu bara.
           </p>
         </li>
 
         <li data-target="slider-2">
-          <h4>Kebutuhan Kolam Terpal Lele</h4>
+          <h4>Menjemur Hasil Bumi</h4>
           <p class="item-desc">
           Digunakan di berbagai sektor mulai dari konstruksi, kolam terpal lele, tambang batu bara.
           </p>
         </li>
 
         <li data-target="slider-3">
-          <h4>Kebutuhan Tambang Batu Bara</h4>
+          <h4>Material Bangunan</h4>
           <p class="item-desc">
           Digunakan di berbagai sektor mulai dari konstruksi, kolam terpal lele, tambang batu bara.
           </p>
@@ -200,18 +207,13 @@ Masalah-masalah ini bikin rugi waktu, tenaga, bahkan duit!
         
 
         <li data-target="slider-4">
-          <h4>Kebutuhan Material Bangunan</h4>
+          <h4>Booth UMKM</h4>
           <p class="item-desc">
           Digunakan di berbagai sektor mulai dari konstruksi, kolam terpal lele, tambang batu bara.
           </p>
         </li>
 
-        <li data-target="slider-5">
-          <h4>Kebutuhan Booth UMKM</h4>
-          <p class="item-desc">
-          Digunakan di berbagai sektor mulai dari konstruksi, kolam terpal lele, tambang batu bara.
-          </p>
-        </li>
+     
       </ul>
     </div>
 
@@ -221,9 +223,9 @@ Masalah-masalah ini bikin rugi waktu, tenaga, bahkan duit!
       <!-- SLIDER 1 -->
       <div class="slider active" id="slider-1">
         <div class="slides">
-          <img src="https://images.unsplash.com/photo-1581091870627-3e04c2e7c8a3" class="active">
-          <img src="https://images.unsplash.com/photo-1586864387789-628af9feed72">
-          <img src="https://images.unsplash.com/photo-1541888946425-d81bb19240f5">
+          
+          <img src="http://orchid.local/wp-content/uploads/2025/12/TARPAULIN-AQUACULTURE-1.jpg" class="active">
+          <img src="http://orchid.local/wp-content/uploads/2025/12/TARPAULIN-AQUACULTURE.jpg">
         </div>
 
         <button class="nav prev">‹</button>
@@ -235,8 +237,7 @@ Masalah-masalah ini bikin rugi waktu, tenaga, bahkan duit!
       <!-- SLIDER 2 -->
       <div class="slider" id="slider-2">
         <div class="slides">
-          <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c" class="active">
-          <img src="https://images.unsplash.com/photo-1595433707802-6b2626ef1c91">
+        <img src="http://orchid.local/wp-content/uploads/2025/12/TARPAULIN-FARMING.jpg" class="active">
         </div>
 
         <button class="nav prev">‹</button>
@@ -248,8 +249,8 @@ Masalah-masalah ini bikin rugi waktu, tenaga, bahkan duit!
       <!-- SLIDER 3 -->
       <div class="slider" id="slider-3">
         <div class="slides">
-        <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c" class="active">
-        <img src="https://images.unsplash.com/photo-1595433707802-6b2626ef1c91">
+        <img src="http://orchid.local/wp-content/uploads/2025/12/Mask-group-11-scaled.jpg" class="active">
+
         </div>
 
         <button class="nav prev">‹</button>
@@ -261,8 +262,8 @@ Masalah-masalah ini bikin rugi waktu, tenaga, bahkan duit!
       <!-- SLIDER 4 -->
       <div class="slider" id="slider-4">
         <div class="slides">
-        <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c" class="active">
-        <img src="https://images.unsplash.com/photo-1595433707802-6b2626ef1c91">
+        <img src="http://orchid.local/wp-content/uploads/2025/12/COD-TENDA-LIPAT-PALEMBANG-3-1024x768-1.jpg" class="active">
+        <img src="http://orchid.local/wp-content/uploads/2025/12/TARPAULIN-TRUCK.jpg">
         </div>
 
         <button class="nav prev">‹</button>
@@ -271,18 +272,7 @@ Masalah-masalah ini bikin rugi waktu, tenaga, bahkan duit!
         <div class="dots"></div>
       </div>
 
-      <!-- SLIDER 5 -->
-      <div class="slider" id="slider-5">
-        <div class="slides">
-        <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c" class="active">
-        <img src="https://images.unsplash.com/photo-1595433707802-6b2626ef1c91">
-        </div>
-
-        <button class="nav prev">‹</button>
-        <button class="nav next">›</button>
-
-        <div class="dots"></div>
-      </div>
+    
 
     </div>
   </div>
@@ -311,10 +301,9 @@ Masalah-masalah ini bikin rugi waktu, tenaga, bahkan duit!
     <div class="tech-grid">
       <div class="tech-card small">
         <div class="icon">📚</div>
-        <h3>Tebal Berkualitas Tinggi</h3>
+        <h3>Lebih Tebal</h3>
         <p>
-          Terpal dibuat dengan ketebalan lebih tinggi sehingga lebih kuat dan tahan dipakai
-          untuk kerja berat.
+        Material lebih kuat dan kokoh, tidak mudah robek, sehingga lebih awet untuk penggunaan jangka panjang.
         </p>
       </div>
 
@@ -330,25 +319,31 @@ Masalah-masalah ini bikin rugi waktu, tenaga, bahkan duit!
         <div class="icon">☀️</div>
         <h3>Lapisan UV</h3>
         <p>
-          Dilengkapi lapisan pelindung UV yang membuat terpal tetap awet meski terkena panas matahari.
+        Dilengkapi pelindung sinar UV untuk mencegah terpal cepat getas atau pudar akibat paparan matahari.
         </p>
       </div>
 
-      <div class="tech-card wide">
+      <div class="tech-card small">
         <div class="icon">🪵</div>
         <h3>Lebih Tahan Gesekan</h3>
         <p>
-          Tidak cepat aus atau rusak meski sering bergesekan dengan permukaan keras
-          atau material berat.
+        Dirancang untuk penggunaan intensif, tidak mudah aus meski sering bergesekan dengan permukaan kasar atau muatan berat.
         </p>
       </div>
 
-      <div class="tech-card wide">
+      <div class="tech-card small">
         <div class="icon">✂️</div>
-        <h3>Tidak Mudah Robek Saat Ditarik</h3>
+        <h3>Tidak Bau</h3>
         <p>
-          Dirancang lebih kuat sehingga tidak mudah robek saat ditarik, dipasang,
-          atau digunakan berulang.
+        Menggunakan material berkualitas yang bebas bau menyengat, lebih nyaman digunakan terutama untuk kebutuhan pangan dan usaha.
+        </p>
+      </div>
+
+      <div class="tech-card small">
+        <div class="icon">✂️</div>
+        <h3>Ring Terpal 2x Press</h3>
+        <p>
+        Ring terpal dipress ganda sehingga lebih kuat, tidak mudah copot, dan aman saat ditarik atau diikat dalam kondisi berat.
         </p>
       </div>
     </div>
@@ -394,26 +389,51 @@ Masalah-masalah ini bikin rugi waktu, tenaga, bahkan duit!
     </div>
 
     <!-- RIGHT -->
+
     <div class="varian-right">
-      <div class="gallery">
-        <div class="gallery-item">
-          <img src="https://picsum.photos/400/250?random=1">
-          <span>TERPAL UNTUK ARMADA TRUK</span>
+    <button class="varian-nav varian-next" onclick="varianNext()">›</button>
+  <div class="varian-slider">
+
+   
+    
+
+    <div class="varian-slider-wrapper">
+      <div class="varian-slides">
+        <div class="varian-slide">
+          <img src="http://orchid.local/wp-content/uploads/2025/12/Mask-group-6.jpg">
+          <span class="varian-label">A12 Blue Silver</span>
         </div>
-        <div class="gallery-item">
-          <img src="https://picsum.photos/400/250?random=2">
-          <span>TERPAL UNTUK KAPAL TONGKANG</span>
+        <div class="varian-slide">
+          <img src="http://orchid.local/wp-content/uploads/2025/12/Mask-group-7.jpg">
+          <span class="varian-label">A12 Black </span>
         </div>
-        <div class="gallery-item">
-          <img src="https://picsum.photos/400/250?random=3">
-          <span>TERPAL UNTUK KOLAM BUDIDAYA</span>
+        <div class="varian-slide">
+          <img src="http://orchid.local/wp-content/uploads/2025/12/Mask-group-8.jpg">
+          <span class="varian-label">A20 Green Army</span>
         </div>
-        <div class="gallery-item">
-          <img src="https://picsum.photos/400/250?random=4">
-          <span>TERPAL UNTUK ATAP BOOTH</span>
+        <div class="varian-slide">
+          <img src="http://orchid.local/wp-content/uploads/2025/12/Mask-group-9.jpg">
+          <span class="varian-label">A20 Yellow</span>
+        </div>
+        <div class="varian-slide">
+          <img src="http://orchid.local/wp-content/uploads/2025/12/Mask-group-10.jpg">
+          <span class="varian-label">A20 Grey</span>
         </div>
       </div>
     </div>
+
+
+  </div>
+  <button class="varian-nav varian-prev" onclick="varianPrev()">‹</button>
+  <div class="varian-dots">
+      <span class="varian-dot active" onclick="varianGo(0)"></span>
+      <span class="varian-dot" onclick="varianGo(1)"></span>
+      <span class="varian-dot" onclick="varianGo(2)"></span>
+      <span class="varian-dot" onclick="varianGo(3)"></span>
+      <span class="varian-dot" onclick="varianGo(4)"></span>
+    </div>
+</div>
+
 
   </div>
 </section>

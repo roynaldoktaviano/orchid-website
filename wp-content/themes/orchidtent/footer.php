@@ -263,6 +263,32 @@ document.addEventListener('DOMContentLoaded', () => {
 
 });
 </script>
+<script>
+let varianIndex = 0;
+const varianSlides = document.querySelector('.varian-slides');
+const varianDots = document.querySelectorAll('.varian-dot');
+
+function varianUpdate() {
+  varianSlides.style.transform = `translateX(-${varianIndex * 100}%)`;
+  varianDots.forEach(dot => dot.classList.remove('active'));
+  varianDots[varianIndex].classList.add('active');
+}
+
+function varianNext() {
+  varianIndex = (varianIndex + 1) % varianDots.length;
+  varianUpdate();
+}
+
+function varianPrev() {
+  varianIndex = (varianIndex - 1 + varianDots.length) % varianDots.length;
+  varianUpdate();
+}
+
+function varianGo(index) {
+  varianIndex = index;
+  varianUpdate();
+}
+</script>
 
 
 
